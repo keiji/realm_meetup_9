@@ -1,0 +1,114 @@
+{
+  "characters": [
+    {
+      "name": "Uduki Shimamura",
+      "age": "17",
+      "megane": false
+    },
+    {
+      "name": "Rin Shibuya",
+      "age": "15",
+      "megane": false
+    },
+    {
+      "name": "Mio Honda",
+      "age": "15",
+      "megane": false
+    },
+    {
+      "name": "Hina Araki",
+      "age": "20",
+      "megane": false
+    },
+    {
+      "name": "ANASTASIA",
+      "age": "15",
+      "megane": false
+    },
+    {
+      "name": "Makino Yagami",
+      "age": "18",
+      "megane": true
+    },
+    {
+      "name": "Haruna Kamijo",
+      "age": "18",
+      "megane": true
+    },
+    {
+      "name": "Chieri Ogata",
+      "age": "16",
+      "megane": false
+    },
+    {
+      "name": "Ranko Kanzaki",
+      "age": "14",
+      "megane": false
+    },
+    {
+      "name": "Miria Akagi",
+      "age": "11",
+      "megane": false
+    },
+    {
+      "name": "Rika Jougasaki",
+      "age": "12",
+      "megane": false
+    },
+    {
+      "name": "Fuka Asano",
+      "age": "16",
+      "megane": true
+    },
+    {
+      "name": "Mahiro Kitagawa",
+      "age": "17",
+      "megane": true
+    },
+    {
+      "name": "Ako Tsuchiya",
+      "age": "15",
+      "megane": true
+    },
+    {
+      "name": "Riina Tada",
+      "age": "12",
+      "megane": false
+    },
+    {
+      "name": "Minami Nitta",
+      "age": "19",
+      "megane": false
+    },
+    {
+      "name": "Anzu Futaba",
+      "age": "17",
+      "megane": false
+    },
+    {
+      "name": "Miku Maekawa",
+      "age": "15",
+      "megane": true
+    },
+    {
+      "name": "Kanako Mimura",
+      "age": "17",
+      "megane": false
+    },
+    {
+      "name": "Kirari Moroboshi",
+      "age": "17",
+      "megane": false
+    },
+    {
+      "name": "Nana Abe",
+      "age": "永遠の17歳",
+      "megane": false
+    },
+    {
+      "name": "Akiha Ikebukuro",
+      "age": "14",
+      "megane": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+apply plugin: 'com.android.application'
+
+apply plugin: 'com.neenbedankt.android-apt'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "io.keiji.realmsample2"
+        minSdkVersion 19
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:23.1.1'
+    compile 'io.realm:realm-android:0.85.0'
+    compile 'net.zetetic:android-database-sqlcipher:3.3.1-2'
+
+    compile 'net.vvakame:jsonpullparser-core:1.6.2'
+    apt 'net.vvakame:jsonpullparser-apt:1.6.2'
+}
